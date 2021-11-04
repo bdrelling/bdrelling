@@ -2,6 +2,8 @@
 
 I'm Brian Drelling (he/him).
 
+I work at [Medly](https://medly.com/) as the Software Development Manager for the Mobile team.
+
 You'll typically find me working on Swift projects spanning Apple platform, server-side, and command-line development. I simply can't get enough Swift!
 
 You can learn more about me by checking out my full [README](https://github.com/bdrelling/README).
