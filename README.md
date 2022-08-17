@@ -10,7 +10,7 @@ Feel free to take a look at my [Manager README](https://github.com/bdrelling/man
 
 My open source projects are intended for education and discovery, not monetization. If any of my projects or articles have provided you with help and support in any way, it would mean the world to me if you [considered becoming a sponsor](https://github.com/sponsors/bdrelling). Your sponsorship will allow me to spend more time on open source projects and cover out-of-pocket development costs.
 
-If you're unable to sponsor for any reason but still interested in helping me out, please consider starring my profile and any of my repositories that may have helped you.
+If you're unable to sponsor for any reason but still interested in helping me out, please consider starring any of my repositories that may have helped you.
 
 Thank you for your support!
 
